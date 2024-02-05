@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @muhammadhshafqat
 - 👀 I’m interested in tech and business research, Android development.
-- 🌱 I’m currently learning and exploring various technologies, including C, Kotlin, and Python.
-- 💞️ I’m looking to collaborate on Android projects, research initiatives, and tech-business insights.
-- 📫 How to reach me: Connect with me on LinkedIn [linkedin.com/in/muhammadhshafqat].
+- I’m currently learning and exploring various technologies, including C, Kotlin, and Python.
+- I’m looking to collaborate on Android projects, research initiatives, and tech-business insights.
+- How to reach me: Connect with me on LinkedIn [linkedin.com/in/muhammadhshafqat].
